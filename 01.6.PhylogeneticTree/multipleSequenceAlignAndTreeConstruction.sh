@@ -3,7 +3,7 @@ BINPATH=/mnt/ws/GenomeAssemblyPractice/01.Bin/
 DATAPATH=/mnt/ws/hw3/01.3.GenomeAssembly
 
 if [ "$#" -lt 1 ]; then
-        echo "Usage: Generate the Kmer Analysis eport for PE reads by specifying the SRA accession number"
+        echo "Usage: Build the Phylogenetic tree with related species"
         echo "       $0 <de novo assembled fasta file>"
         exit
 fi
