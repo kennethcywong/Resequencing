@@ -46,6 +46,6 @@ tab <- data.frame(sample.id = pca$sample.id,pop = factor(pop_code)[match(pca$sam
 pc.percent <- round(pca$varprop*100, 2)
 
 pdf("pca.pdf")
-plot(tab$EV2, tab$EV1, col=as.integer(tab$pop),xlab=paste("Eigenvector 2 (", as.character(pc.percent[2]), "%)", sep=""), ylab=paste("Eigenvector 1 (", as.character(pc.percent[1]), "%)", sep=""))
-legend("topleft", legend=levels(tab$pop), pch="o", col=1:nlevels(tab$pop))
+plot(tab$EV2, tab$EV1, pch=20, cex=2, col=as.integer(tab$pop),xlab=paste("Eigenvector 2 (", as.character(pc.percent[2]), "%)", sep=""), ylab=paste("Eigenvector 1 (", as.character(pc.percent[1]), "%)", sep=""))
+legend("topleft", legend=levels(tab$pop), pch=20, col=1:nlevels(tab$pop))
 dev.off()
