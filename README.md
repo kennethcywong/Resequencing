@@ -61,4 +61,39 @@
    ./multipleSequenceAlignAndTreeConstruction.sh <de novo assembled fasta file>
    ```
   
+9. Mapping to reference genome
+   - If the de-novo assembly genome is good enough, use the fasta file generated in Step 5 and functional annotation from Step 7.
+     Otherwise, use the download reference genome and annotation file from Step 1.
+   ```bash
+   cd /mnt/ws/hw3/02.mapping
+   ./01.mapping.sh
+   ```
 
+10. Variation calling by GATK best practice
+   ```bash 
+   cd /mnt/ws/hw3/03.variationCalling
+   ./01.gatkVariationCalling.sh
+   ```
+
+11. Calculate the diversity level amongs the sample population
+   ```bash
+   cd /mnt/ws/hw3/04.populationDiversity
+   ./01.calcStatistics.sh <window size in nt>
+   ```
+
+12. Build the Phylogenetic Tree
+   ```bash
+   cd /mnt/ws/hw3/05.populationRelationship
+   python vcf2phylip.py -i <vcf filename>   # *.phy file is generated and use as input to dnaml
+   /mnt/ws/Resequencing/00.bin/phylip-3.695/exe/dnaml   # Input the *.phy filename
+   ```
+   The tree can be found in output file "outfile".
+
+13. PCA Analysis based on the VCF file
+   ```bash
+   cd /mnt/ws/hw3/05.populationRelationship
+   cp <vcf file> input.vcf
+   Rscript Tree_pca_only.R
+   ```
+   The PCA plot will be saved as pca.pdf
+   
