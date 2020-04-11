@@ -9,7 +9,7 @@ WINDOW_SIZE=$1
 
 if [ "$#" -lt 1 ];
 then
-	echo "Usage: $0 <window size in bp>"
+	echo "Usage: $0 <window size in nt>"
 	exit 0
 fi
 

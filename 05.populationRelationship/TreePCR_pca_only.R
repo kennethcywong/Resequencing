@@ -46,7 +46,7 @@ snpgdsClose(genofile)
 tab <- data.frame(sample.id = pca$sample.id,pop = factor(pop_code)[match(pca$sample.id, sample.id)],EV1 = pca$eigenvect[,1],EV2 = pca$eigenvect[,2],stringsAsFactors = FALSE)
 pc.percent <- round(pca$varprop*100, 2)
 
-pdf("pca.cy.pdf")
+pdf("pca.pdf")
 plot(tab$EV2, tab$EV1, pch=20, cex=2, col=as.integer(tab$pop),xlab=paste("Eigenvector 2 (", as.character(pc.percent[2]), "%)", sep=""), ylab=paste("Eigenvector 1 (", as.character(pc.percent[1]), "%)", sep=""))
 legend("topleft", legend=levels(tab$pop), pch=20, col=1:nlevels(tab$pop))
 dev.off()
