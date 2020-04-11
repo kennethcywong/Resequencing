@@ -1,7 +1,7 @@
 1. Download the Refseq and annotation file
    ```bash
    cd 01.data
-   - wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.gff.gz
+   wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.gff.gz
    ```
    - Visit https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta and copy and paste the fasta seq to a file NC_045512.2.fn
    - unzip the gff file
@@ -87,7 +87,7 @@
    python vcf2phylip.py -i <vcf filename>   # *.phy file is generated and use as input to dnaml
    /mnt/ws/Resequencing/00.bin/phylip-3.695/exe/dnaml   # Input the *.phy filename
    ```
-   The tree can be found in output file "outfile".
+   - The tree can be found in output file "outfile".
 
 13. PCA Analysis based on the VCF file
    ```bash
@@ -95,5 +95,5 @@
    cp <vcf file> input.vcf
    Rscript Tree_pca_only.R
    ```
-   The PCA plot will be saved as pca.pdf
+   - The PCA plot will be saved as pca.pdf
    
