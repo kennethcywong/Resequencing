@@ -1,0 +1,211 @@
+Final graph has 15681 nodes and n50 of 65, max 881, total 260382, using 131263/5200694 reads
+Mon Apr  6 11:31:20 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 59 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 11:33:14 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 70701 nodes and n50 of 32, max 154, total 935413, using 27100/5200694 reads
+Mon Apr  6 11:39:18 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 99 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 11:40:00 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 56 nodes and n50 of 30284, max 30284, total 37399, using 2006651/5200694 reads
+Mon Apr  6 11:49:36 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 89 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 11:50:42 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 4647 nodes and n50 of 84, max 2090, total 141683, using 509646/5200694 reads
+Mon Apr  6 11:53:23 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 109 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 11:53:44 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/5200694 reads
+Mon Apr  6 11:55:48 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 95 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 11:56:24 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 1016 nodes and n50 of 979, max 8938, total 87370, using 1213422/5200694 reads
+Mon Apr  6 12:06:37 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 105 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 12:06:57 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/5200694 reads
+Mon Apr  6 12:07:49 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 99 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 12:08:18 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 56 nodes and n50 of 30284, max 30284, total 37399, using 2006651/5200694 reads
+Mon Apr  6 12:09:04 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 101 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 12:09:32 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/5200694 reads
+Mon Apr  6 12:10:18 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 97 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 12:10:51 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 273 nodes and n50 of 7341, max 8898, total 58179, using 1641247/5200694 reads
+Mon Apr  6 12:41:55 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velveth ./ 99 -shortPaired -fastq.gz -separate /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_1.filtered.fq.gz /mnt/ws/hw3/01.1.DataFiltering/SRR11059946_2.filtered.fq.gz
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Mon Apr  6 12:42:24 2020
+ /mnt/ws/GenomeAssemblyPractice/01.Bin/velvet_1.2.10/velvetg ./ -exp_cov 24293
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 127
+
+Final graph has 56 nodes and n50 of 30284, max 30284, total 37399, using 2006651/5200694 reads
